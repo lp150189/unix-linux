@@ -21,4 +21,13 @@
 - c character special file(no one gives a fuck)
 - b block special file(no one gives a fuck)
 
+### chown
+- the syntax is `chown bob file.txt`
+- bob ---> change it to user named bob
+- bob:bitch --> change it to bob the user, and the group bitch
+- :bitch--> change the owner ship to the group named bitch
+- bob: --> change the owner ship to bob and his group
 
+### change your password
+- `passwd [user]`
+- Example: `passwd hle`
