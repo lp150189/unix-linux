@@ -3,8 +3,8 @@
 ### New window
 - Prefix c
 
-### Next window or previous window
-- Prefix n, Prefix p
+### Next window 
+- Prefix n
 
 ### Jump to a random window
 - Prefix 0, Prefix 10, Prefix 2
@@ -16,7 +16,7 @@
 - Prefix w
 
 ### To close a window
-- Prefix &
+- Prefix q
 
 ### Kill a pane
 - Prefix X, or type `exit`
@@ -38,5 +38,3 @@
 - to list buffer let's do  `list-buffer`
 - to choose buffer let's do `choose-buffer`
 
-###
-wassup
