@@ -5,6 +5,8 @@
 - find ~ -type f | wc -l : just like the above but this time is only for files
 - find ~ -type f  -name "\*.JPG" -size +1M | wc -l
 	- find all the files that has name .JPG and size that is greater than 1M
+- find . -regex 'bin/(bz|gz|zip)'
+	- find all the file that has the names that has the names matched the regex
 
 ### Find and logical operators
 - Example

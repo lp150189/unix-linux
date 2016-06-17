@@ -1,0 +1,22 @@
+<HTML>
+<HEAD>
+<TITLE>System Information Report for YubabaServerJenkins</TITLE>
+</HEAD>
+<BODY>
+<H1>System Information Report for YubabaServerJenkins</H1>
+<P> Generated 06/05/2016 01:19:59 PM PDT, by hle </P>
+<H2> System uptime </H2>
+<PRE> 13:20:33 up 17:46, 16 users,  load average: 0.33, 0.27, 0.42</PRE>
+<H2>Disk Space Ultilization</H2>
+<PRE>Filesystem      Size  Used Avail Use% Mounted on
+udev            7.8G     0  7.8G   0% /dev
+tmpfs           1.6G  9.4M  1.6G   1% /run
+/dev/sdd1       217G   32G  174G  16% /
+tmpfs           7.9G   71M  7.8G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           7.9G     0  7.9G   0% /sys/fs/cgroup
+/dev/sdb1       197M   19M  179M  10% /boot/efi
+tmpfs           1.6G   48K  1.6G   1% /run/user/1000</PRE>
+<H2> Home Space Ultilization (hle) </H2>
+<PRE> 19G	/home/hle</PRE>
+</BODY>
